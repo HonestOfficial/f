@@ -1,5 +1,8 @@
 ================================================================================
 
+7/20/2020 21:15 - Power went out for a bit.. Also trying to update the weather
+widgets, hopefully getting something different from widget.io
+
 7/20/2020: Recieved domain "peepers.uk.ms" and added pictures, weather, news,
 and comics. And launched website to the 'Net
 
